@@ -48,6 +48,7 @@ const asyncWork = () => {
 		console.log('비동기 처리 시작');
 		setTimeout(resolve, 1000);
 	});
+}
 
 asyncWork().then(afterAsync);
 console.log('다른 일 먼저 하고 있기');
