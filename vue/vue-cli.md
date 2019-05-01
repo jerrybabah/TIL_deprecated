@@ -15,4 +15,6 @@ vue-cli는 vue.js 개발을 위한 표준 도구이다. 되게 포괄적인 의�
 3. 설정: babel, eslint 등의 설정
 4. 빌드: webpack
 
+자잘한 기능으로 git init 까지 해준다
+
 (gulp, grunt, browserify), (webpack), (vue-cli) 순으로 기능이 통합되고 상위의 개념이라고 보면 된다.
