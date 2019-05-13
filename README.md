@@ -10,3 +10,4 @@
 - 폴더를 사용해 주제별로 관리한다
 - 깃허브용 마크다운([GFM](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown))을 사용한다
 - 폴더 이름은 영어로 작성한다
+- 개괄식으로 쓰는 것을 지향한다
